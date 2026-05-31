@@ -1,4 +1,5 @@
 Gesture Control System using Computer Vision
+
 ##📌 Project Overview
 
 This project is a real-time **Hand Gesture Recognition System** developed using **Python**, **NumPy**, **Pandas**, and Computer Vision techniques. The system detects and tracks hand landmarks through a webcam feed and recognizes different hand gestures in real time.
